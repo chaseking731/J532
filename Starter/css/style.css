@@ -1,11 +1,14 @@
 body {
   background-color:#ffffff;
 }
-h1 {color: #ff0000;}
+h1 {color: #ff0000;
+font-family: "Merriweather", serif;}
 
-h2 {color: #000000;}
+h2 {color: #000000;
+font-family: "Libre Baskerville", serif;}
 
-p {color: #000000;}
+p {color: #000000;
+font-family: "Libre Baskerville", serif;}
 
 .leadGraph {background-color: #e2e2e2; color: #2B2727; font-weight: bold; 
   font-size: 2rem; padding: 20px;}
@@ -15,3 +18,27 @@ p {color: #000000;}
 a {color: #0E82B0; text-decoration: none ;}
 a:hover {color: #FF00F1; text-decoration: underline;}
 
+.headerBox {
+background-color: #999999;
+text-align: center;
+padding: 20px;
+}
+
+
+
+
+.libre-baskerville-<uniquifier> {
+  font-family: "Libre Baskerville", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.merriweather-<uniquifier> {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
