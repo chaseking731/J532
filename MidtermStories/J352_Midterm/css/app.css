@@ -1,0 +1,138 @@
+/* GLOBAL ARTICLE STYLES */
+
+body {
+
+}
+
+h1 {
+font-family: "Source Sans 3", sans-serif;
+}
+
+h2 {
+ font-family: "Google Sans", sans-serif}
+
+p {
+font-family: "Nunito Sans", sans-serif;
+}
+
+.NotLeadPhoto {
+	margin: 20px 20px 20px 20px;
+	padding: 20px;
+}
+
+.branding {
+font-family: "Archivo Black", sans-serif;
+color: red;
+font-size: 50px;
+text-align: center;
+}
+
+.leadPhoto {
+	margin: 20px 20px 20px 20px
+}
+
+.videowallbreakandwhatnot {
+	padding:20px 20px 20px 20px;
+}
+
+.sidebox{
+	background-color: #f4f4f4;
+	width: 350px;
+	length: 700px;
+	padding: 20px;
+	margin: 20px;
+}
+
+.headline{
+    padding: 20px;
+    margin: 20px;
+}
+
+.navStyle {
+	background-color: red;
+	color: #fff;
+	height: 50px;
+	padding: 12px;
+	text-align: center;
+}
+.navStyle a {
+	color: #f4f4f4;
+	text-decoration: none;
+}
+.navStyle a:hover {
+	color: red;
+}
+.navItem {
+	margin: 0 25px 0 25px;
+}
+.bodyCopy {
+	padding: 50px 0 0 0;
+}
+.footerStyle {
+	background-color: red;
+	color: #fff;
+	padding: 12px;
+	height: 50px;
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt {
+	text-align: center;
+	margin-top: 50px;
+}
+.rtt a {
+	color: red;
+	text-decoration: none;
+	font-weight: bold;
+}
+.rtt a:hover {
+	color: red;
+}
+
+
+.pirata-one-regular {
+  font-family: "Pirata One", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.nunito-sans-<uniquifier> {
+  font-family: "Nunito Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 80,
+    "YTLC" 500;
+}
+
+.source-sans-3-<uniquifier> {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.inter-<uniquifier> {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.google-sans-<uniquifier> {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
+.archivo-black-regular {
+  font-family: "Archivo Black", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
