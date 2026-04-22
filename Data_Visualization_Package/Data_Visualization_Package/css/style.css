@@ -1,0 +1,70 @@
+body {
+  background-color:#ffffff;
+}
+
+h2 {color: #000000;}
+
+p {color: #000000;}
+
+.leadGraph {background-color: #e2e2e2; color: #2B2727; font-weight: bold; 
+  font-size: 2rem; padding: 20px;}
+
+.leadPhoto {margin: 20px 30px 30px 30px}
+
+a {color: #0E82B0; text-decoration: none ;}
+a:hover {color: #FF00F1; text-decoration: underline;}
+
+.headerBox {
+background-color: #ffffff;
+text-align: center;
+padding: 20px;
+}
+
+.Branding {
+font-size: 50px;
+background-color: #000000;
+text-align: center;
+color: #ffffff;
+font-family: "Playfair Display SC", serif;
+}
+
+.infographic {
+  align-items:;
+}
+
+.playfair-display-sc-regular {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.playfair-display-sc-bold {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.playfair-display-sc-black {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.playfair-display-sc-regular-italic {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.playfair-display-sc-bold-italic {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.playfair-display-sc-black-italic {
+  font-family: "Playfair Display SC", serif;
+  font-weight: 900;
+  font-style: italic;
+}
+
